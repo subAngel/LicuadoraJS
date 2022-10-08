@@ -2,8 +2,8 @@
 
 ## Licuadora apagada
 
-![Licuadora apagada](licuadoraApagada.png){width:500px}
+![Licuadora apagada](licuadoraApagada.png = 500x)
 
 ## Licuadora encendida
 
-![Licuadora encendida](licuadoraEncendida.png){width:500px}
+![Licuadora encendida](licuadoraEncendida.png = 500x)
